@@ -43,7 +43,6 @@ No shortcuts. No copy-paste. Pure hands-on engineering.
 
 ---
 
-## 📁 Directory Snapshot (Clean, Modular Architecture)
 
 
 
